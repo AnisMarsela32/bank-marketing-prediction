@@ -1,24 +1,5 @@
 # Analisis dan Prediksi Data Nasabah Bank
-
-## Repository Outline
-```
-1. README.md - Penjelasan umum project
-2. notebook.ipynb - Proses utama: eksplorasi, preprocessing, dan modeling
-3. P1M2_anis_marsela.ipynb - Notebook utama sesuai format project
-4. P1M2_anis_marsela_inf.ipynb - Notebook untuk proses prediksi/inference
-5. P1M2_anis_marsela_conceptual.ipynb - Penjelasan konsep secara teori
-6. bank-marketing-prediction/
-   ├── eda.py - Script eksplorasi data
-   ├── prediction.py - Script prediksi model
-   ├── streamlit_app.py - Dashboard visualisasi
-7. url.txt - Link penting
-8. gb_model_pipeline.pkl - Model Gradient Boosting dalam format pickle
-9. bank-full.csv - Dataset utama
-
-```
-
 ---
-
 ## Problem Background
 
 Sebuah bank di Portugal menjalankan kampanye pemasaran lewat telepon untuk menawarkan produk deposito berjangka. Namun, tidak semua nasabah tertarik, sehingga banyak waktu dan tenaga terbuang sia-sia.
