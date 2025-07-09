@@ -34,7 +34,7 @@ Dengan memanfaatkan data historis, kita dapat membangun model yang memprediksi s
 
 ---
 
-## roses Pengolahan Data
+## Proses Pengolahan Data
 
 Langkah-langkah utama dalam preprocessing:
 
@@ -93,8 +93,8 @@ Model telah disiapkan untuk **deployment** menggunakan **Hugging Face Spaces** a
 ## Kontak
 
 - **Nama:** Anis Marsela  
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anis-marsela-348727301/)
+- **Email:** anismarsela36854@gmail.com
+- **LinkedIn:** [linkedin.com/in/anis-marsela](https://www.linkedin.com/in/anis-marsela-348727301/)
 
 ---
 
