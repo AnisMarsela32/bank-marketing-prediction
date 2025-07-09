@@ -78,7 +78,7 @@ Model Gradient Boosting dipilih karena:
 
 Model telah disiapkan untuk **deployment** menggunakan **Hugging Face Spaces** atau **Streamlit**.
 
-🔗 [Link ke Hugging Face / Streamlit] *(https://huggingface.co/spaces/anismarsela32/bank-marketing-prediction)*
+🔗 [Link ke Hugging Face / Streamlit](https://huggingface.co/spaces/anismarsela32/bank-marketing-prediction)
 
 ---
 
