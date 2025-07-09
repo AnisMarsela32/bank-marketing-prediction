@@ -1,0 +1,5 @@
+# URL Dataset
+https://www.kaggle.com/datasets/adityamhaske/bank-marketing-dataset?select=bank-full.csv
+
+# URL Deployment
+https://huggingface.co/spaces/anismarsela32/bank-marketing-prediction
